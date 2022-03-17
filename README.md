@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 👋
 
 - 🔭 Je suis actuellement en Formation à la Capsule jusqu'au 27 Mai
 - 🌱 J'apprend le javascript et React dans le cadre d'une reconversion
