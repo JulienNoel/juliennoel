@@ -1,7 +1,7 @@
 ### Bonjour 👋
 
 - 🔭 Je suis actuellement en Formation à la Capsule jusqu'au 27 Mai
-- 🌱 J'apprend le javascript et React dans le cadre d'une reconversion
+- 🌱 J'apprend le javascript et React dans le cadre d'une reconversion pour devenir developpeur fullstack
 - 📫 Vous pouvez me contacter au 06.26.02.61.91
 
 <!--
