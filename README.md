@@ -6,9 +6,14 @@
 
 Languages et Tools :
 
-<img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+<img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
  <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
  <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" />
+
+          
+          
+          
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliennoel&show_icons=true&theme=default)
