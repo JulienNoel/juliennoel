@@ -1,8 +1,8 @@
 ### Bonjour 👋
 
-- 🔭 Developpeur React / React Native / Redux / NodeJS / MongoDB
-- 🌱 Actuellement en Recherche d'emploi suite à une reconversion après un bootcamp de 10 semaines à La Capsule
+- 🌱 Je suis développeur React et React native
 - 📫 Vous pouvez me contacter au 06.26.02.61.91
+
 
 Languages et Tools :
 
