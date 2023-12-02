@@ -1,13 +1,13 @@
 ### Bonjour 👋
 
-- 🌱 Je suis développeur React et React native
+- 🌱 Je suis développeur React et React native chez obvious Technologies
 - 📫 Vous pouvez me contacter au 06.26.02.61.91
 
 
 Languages et Tools :
 
-<img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
- <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" />
+<img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+ <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" />
 
           
           
