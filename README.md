@@ -1,7 +1,7 @@
 ### Bonjour 👋
 
-- 🌱 Je suis développeur React et React native chez obvious Technologies
-- 📫 Vous pouvez me contacter au 06.26.02.61.91
+- 🌱 I am a React and React native developer at Obvious Technologies
+- 📫 You can contact me +33 6.26.02.61.91
 
 
 Languages et Tools :
